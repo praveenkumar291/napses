@@ -1,0 +1,14 @@
+.brand-logo {
+  padding: 10px;
+}
+
+.power-button {
+  margin-top: 221px;
+}
+
+.active {
+  border-left: 2px solid black;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
